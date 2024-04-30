@@ -2,9 +2,10 @@
 body{
     font-family: 'Montserrat', sans-serif;
 }
-
+/** MENU ENVIOS-SUPERIOR**/
 #inicio .fondoEnvios{
     background-color: black;
+    margin: 0px;
 }
 
 .header-envios__text {
@@ -12,4 +13,72 @@ body{
     padding: 10px 10px;
     box-sizing: border-box;
     font-size: 0.9375rem;
+    margin: 0px;
+}
+.header-envios__text a{
+    text-decoration: none;
+    color: white;
+}
+.nav-link{
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+}
+.navbar-container{
+    margin: 0px 40px 0px 40px;
+    /* Puedes ajustar este valor según sea necesario */
+
+}
+div.container-fluid{
+    margin-left: 40px;
+    padding: 20px 0 20px;
+}
+.navbar-collapse{
+    margin-right: 40px;
+    
+}
+#secondNav .navbar {
+    padding: 20px 0 20px 0px;
+}
+#mainNav.hidden {
+    display: none;
+}
+#mainNav {
+    padding: 0px;
+}
+#secondNav.fixed-top {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000; /* Ajusta el índice z si es necesario */
+}
+#secondNav {
+    top: 50px;
+    padding: 0px;
+    background-color: white;
+    color: black;
+    
+}
+
+#secondNav a{
+    color: black;
+}
+
+/* CARROUSEL */
+.carousel-item img{
+    height: 400px;
+    margin-top: 40px;
+}
+.carousel-caption {
+    position: absolute;
+    bottom: 150px; /* Ajusta esta propiedad para cambiar la distancia desde la parte inferior */
+    left: 50%; /* Esto centrará horizontalmente el texto */
+    transform: translateX(-100%); /* Esto lo desplaza hacia la izquierda la mitad de su ancho, centrando el texto */
+    text-align: center; /* Alinea el texto al centro */
+    color: white; /* Cambia el color del texto si es necesario */
+    /* Cambia el color de fondo del texto si es necesario */
+    /* Ajusta el relleno alrededor del texto si es necesario */
+}
+.carousel-caption p{
+    color: white;
+    font-size: 25px;
 }
