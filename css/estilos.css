@@ -82,3 +82,49 @@ div.container-fluid{
     color: white;
     font-size: 25px;
 }
+#inicio .imgProductos img{
+    height: 200px;
+    width: 250px;   
+    margin: 10px;
+}
+#inicio .descripcionProducto{
+    font-size: 1rem;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.1;
+    letter-spacing: -0.21px;
+    margin: 0px 0px 5px 0px;
+}
+#inicio .precioProducto{
+    font-weight: bold;
+    font-size: 0.95rem;
+    line-height: 1;
+    margin: 0px;
+}
+#inicio .descripcionAdicional{
+    margin-top: 2px;
+    font-size: 0.75rem;
+    font-weight: 400;
+    justify-content: center;
+}
+#inicio .email-barra{
+    background-color: #333333;
+}
+#inicio h5{
+    color: white;
+    font-size: 16px;
+    line-height: 1.4;
+    margin: 0;
+}
+/*footer*/
+#inicio footer h5{
+    color: black;
+    font-weight: bold;
+    font-size: 16px;
+}
+.footer__top__icon {
+    width: auto;
+    height: 20px;
+    margin: 0px 5px 5px 0px;
+}

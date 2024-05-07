@@ -112,12 +112,123 @@
     </div>
     <div class="container">
         <div class="row">
-            <div class="col-3">dasd</div>
-            <div class="col-3">asfas</div>
-            <div class="col-3">dasd</div>
-            <div class="col-3">asfas</div>
+            <div class="col-3 imgProductos">
+              <img src="images/invierno.jpg" alt="">
+                <h3 class="text-center descripcionProducto">Abrigo Invierno</h3>
+                <p class="precioProducto text-center">$45.000,00</p>
+                <p class="descripcionAdicional text-center">3 cuotas sin interes $15.000,00</p>
+            </div>
+            <div class="col-3 imgProductos">
+              <img src="images/invierno.jpg" alt="">
+              <h3 class="text-center descripcionProducto">Abrigo Invierno</h3>
+                <p class="precioProducto text-center">$45.000,00</p>
+                <p class="descripcionAdicional text-center">3 cuotas sin interes $15.000,00</p>
+            </div>
+            <div class="col-3 imgProductos">
+              <img src="images/invierno.jpg" alt="">
+              <h3 class="text-center descripcionProducto">Abrigo Invierno</h3>
+                <p class="precioProducto text-center">$45.000,00</p>
+                <p class="descripcionAdicional text-center">3 cuotas sin interes $15.000,00</p>
+            </div>
+            <div class="col-3 imgProductos">
+              <img src="images/invierno.jpg" alt="">
+              <h3 class="text-center descripcionProducto">Abrigo Invierno</h3>
+                <p class="precioProducto text-center">$45.000,00</p>
+                <p class="descripcionAdicional text-center">3 cuotas sin interes $15.000,00</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-3 imgProductos">
+              <img src="images/invierno.jpg" alt="">
+                <h3 class="text-center descripcionProducto">Abrigo Invierno</h3>
+                <p class="precioProducto text-center">$45.000,00</p>
+                <p class="descripcionAdicional text-center">3 cuotas sin interes $15.000,00</p>
+            </div>
+            <div class="col-3 imgProductos">
+              <img src="images/invierno.jpg" alt="">
+              <h3 class="text-center descripcionProducto">Abrigo Invierno</h3>
+                <p class="precioProducto text-center">$45.000,00</p>
+                <p class="descripcionAdicional text-center">3 cuotas sin interes $15.000,00</p>
+            </div>
+            <div class="col-3 imgProductos">
+              <img src="images/invierno.jpg" alt="">
+              <h3 class="text-center descripcionProducto">Abrigo Invierno</h3>
+                <p class="precioProducto text-center">$45.000,00</p>
+                <p class="descripcionAdicional text-center">3 cuotas sin interes $15.000,00</p>
+            </div>
+            <div class="col-3 imgProductos">
+              <img src="images/invierno.jpg" alt="">
+              <h3 class="text-center descripcionProducto">Abrigo Invierno</h3>
+                <p class="precioProducto text-center">$45.000,00</p>
+                <p class="descripcionAdicional text-center">3 cuotas sin interes $15.000,00</p>
+            </div>
         </div>
     </div>
+      <div class="email-barra mt-5">
+        <div>
+          <div class="row">
+            <div class="col-3">
+            </div>
+            <div class="col-3">
+              <h5 class="text-center py-2">Dejanos tu mail para recibir novedades</h5>            
+            </div>
+            <div class="col-3">
+            <form action="" method="">
+                <label for="">
+                  <input type="text" placeholder="Tu email">
+                  <button class="btn btn-dark">Enviar</button>
+                </label>
+              </form>
+            </div>
+            <div class="col-3"></div>
+          </div>
+        </div>
+      </div>
+    <footer>
+      <div class="footer_items">
+        <div class="row px-5">
+          <div class="col-3">
+            <h5 class="my-3">Metodos de Pago</h5>
+            <div class="footer_items">
+              <img src="https://dk0k1i3js6c49.cloudfront.net/iconos-pago/mercadopago.png" class="footer__top__icon" alt="Medio Pago">
+              <img src="https://dk0k1i3js6c49.cloudfront.net/iconos-pago/mastercard.png" class="footer__top__icon" alt="Medio Pago">
+              <img src="https://dk0k1i3js6c49.cloudfront.net/iconos-pago/visa.png" class="footer__top__icon" alt="Medio Pago">
+              <img src="https://dk0k1i3js6c49.cloudfront.net/iconos-pago/american-express.png" class="footer__top__icon" alt="Medio Pago">
+              <img src="https://dk0k1i3js6c49.cloudfront.net/iconos-pago/naranja.png" class="footer__top__icon" alt="Medio Pago">
+              <img src="https://dk0k1i3js6c49.cloudfront.net/iconos-pago/cabal.png" class="footer__top__icon" alt="Medio Pago">
+              <img src="https://dk0k1i3js6c49.cloudfront.net/iconos-pago/maestro.png" class="footer__top__icon" alt="Medio Pago">
+              <img src="https://dk0k1i3js6c49.cloudfront.net/iconos-pago/diners-club.png" class="footer__top__icon" alt="Medio Pago">
+              <img src="https://dk0k1i3js6c49.cloudfront.net/iconos-pago/nativa.png" class="footer__top__icon" alt="Medio Pago">
+              <img src="https://dk0k1i3js6c49.cloudfront.net/iconos-pago/argencard.png" class="footer__top__icon" alt="Medio Pago">
+              <img src="https://dk0k1i3js6c49.cloudfront.net/iconos-pago/pagofacil.png" class="footer__top__icon" alt="Medio Pago">
+              <img src="https://dk0k1i3js6c49.cloudfront.net/iconos-pago/rapipago.png" class="footer__top__icon" alt="Medio Pago">
+              <img src="https://dk0k1i3js6c49.cloudfront.net/iconos-pago/deposito.png" class="footer__top__icon" alt="Medio Pago">
+            </div>
+          </div>
+          <div class="col-3">
+            <div class="">
+              <h5 class="my-3">Medios de Envio</h5>
+              <div class="footer_items">
+              <img src="https://dk0k1i3js6c49.cloudfront.net/iconos-envio/e-pick.png" class="footer__top__icon" alt="Medio Envio">
+              <img src="https://dk0k1i3js6c49.cloudfront.net/iconos-envio/andreani.png" class="footer__top__icon" alt="Medio Envio">
+              <img src="https://dk0k1i3js6c49.cloudfront.net/iconos-envio/retiro-local.png" class="footer__top__icon" alt="Medio Envio">
+              </div>
+            </div>
+          </div>
+          <div class="col-3">
+            <div class="">
+              <h5 class="my-3">Nuestras Redes Sociales</h5>
+              <div class="footer_items">
+              <img src="https://dk0k1i3js6c49.cloudfront.net/iconos-envio/e-pick.png" class="footer__top__icon" alt="Medio Envio">
+              <img src="https://dk0k1i3js6c49.cloudfront.net/iconos-envio/andreani.png" class="footer__top__icon" alt="Medio Envio">
+              <img src="https://dk0k1i3js6c49.cloudfront.net/iconos-envio/retiro-local.png" class="footer__top__icon" alt="Medio Envio">
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </footer>
     
 
   </section>
