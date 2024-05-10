@@ -58,27 +58,28 @@
     </div>
     <div class="container">
         <div class="row">
-            <div class="col-3 text-center imgProductos">
-              <a href="invierno1.php">
-              <img class="" src="images/invierno.jpg" alt="">
+            <div class="col-3 imgProductos">
+            <a href="invierno1.php">
+              <img src="images/invierno.jpg" alt="">
                 <h3 class="text-center descripcionProducto">Abrigo Invierno</h3>
+                
                 <p class="precioProducto text-center">$45.000,00</p>
                 <p class="descripcionAdicional text-center">3 cuotas sin interes $15.000,00</p>
-              </a>
-              </div>
-            <div class="col-3 text-center imgProductos">
+                </a>
+            </div>
+            <div class="col-3 imgProductos">
               <img src="images/invierno.jpg" alt="">
               <h3 class="text-center descripcionProducto">Abrigo Invierno</h3>
                 <p class="precioProducto text-center">$45.000,00</p>
                 <p class="descripcionAdicional text-center">3 cuotas sin interes $15.000,00</p>
             </div>
-            <div class="col-3 text-center imgProductos">
+            <div class="col-3 imgProductos">
               <img src="images/invierno.jpg" alt="">
               <h3 class="text-center descripcionProducto">Abrigo Invierno</h3>
                 <p class="precioProducto text-center">$45.000,00</p>
                 <p class="descripcionAdicional text-center">3 cuotas sin interes $15.000,00</p>
             </div>
-            <div class="col-3 text-center imgProductos">
+            <div class="col-3 imgProductos">
               <img src="images/invierno.jpg" alt="">
               <h3 class="text-center descripcionProducto">Abrigo Invierno</h3>
                 <p class="precioProducto text-center">$45.000,00</p>
@@ -86,25 +87,25 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-3 text-center imgProductos">
+            <div class="col-3 imgProductos">
               <img src="images/invierno.jpg" alt="">
                 <h3 class="text-center descripcionProducto">Abrigo Invierno</h3>
                 <p class="precioProducto text-center">$45.000,00</p>
                 <p class="descripcionAdicional text-center">3 cuotas sin interes $15.000,00</p>
             </div>
-            <div class="col-3 text-center imgProductos">
+            <div class="col-3 imgProductos">
               <img src="images/invierno.jpg" alt="">
               <h3 class="text-center descripcionProducto">Abrigo Invierno</h3>
                 <p class="precioProducto text-center">$45.000,00</p>
                 <p class="descripcionAdicional text-center">3 cuotas sin interes $15.000,00</p>
             </div>
-            <div class="col-3 text-center imgProductos">
+            <div class="col-3 imgProductos">
               <img src="images/invierno.jpg" alt="">
               <h3 class="text-center descripcionProducto">Abrigo Invierno</h3>
                 <p class="precioProducto text-center">$45.000,00</p>
                 <p class="descripcionAdicional text-center">3 cuotas sin interes $15.000,00</p>
             </div>
-            <div class="col-3 text-center imgProductos">
+            <div class="col-3 imgProductos">
               <img src="images/invierno.jpg" alt="">
               <h3 class="text-center descripcionProducto">Abrigo Invierno</h3>
                 <p class="precioProducto text-center">$45.000,00</p>
