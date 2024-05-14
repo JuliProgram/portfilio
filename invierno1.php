@@ -11,108 +11,29 @@
     <link rel="stylesheet" href="css/estilos.css">
     <script src="java/style.js"></script>
 </head>
-<body id="inicio">
+<body id="invierno1">
     <header>
         <?php include_once("menuNavegador.php") ?>
     </header>
-  <section>
-  <div class="carrousell mt-2">
-      <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="images/invierno photoshoppng.png" class="d-block w-100" alt="...">
-      <div class="carousel-caption d-none d-md-block">
-    <h1>Descuentos!</h1>
-    <p>Aprovecha y ahorra en las siguientes prendas</p>
-    </div>
-    </div>
-    <div class="carousel-item">
-      <img src="images/inviernopho2.png" class="d-block w-100" alt="...">
-      <div class="carousel-caption d-none d-md-block">
-    <h1>Descuentos!</h1>
-    <p>Aprovecha y ahorra en las siguientes prendas</p>
-    </div>
-    </div>
-    <div class="carousel-item">
-      <img src="images/hombre-invierno.png" class="d-block w-100" alt="...">
-      <div class="carousel-caption d-none d-md-block">
-    <h1>Descuentos!</h1>
-    <p>Aprovecha y ahorra en las siguientes prendas</p>
-    </div>
+  <section class="product justify-content-center mt-5">
+  <div class="container mt-5">
+    <div class="row">
+      <div class="col-md-6 text-center pt-4">
+        <img src="images/invierno1.png" alt="Campera de Invierno" class="img-fluid">
+      </div>
+      <div class="col-md-6 pt-4">
+        <h2>Campera de Invierno - Talle M</h2>
+        <p class="text-muted">Campera negra de alta calidad para el invierno. Mantente abrigado y con estilo en los días fríos.</p>
+        <h3 class="text-danger">$32,000</h3>
+        <p><i class="fa-regular fa-credit-card"></i> 25% de descuento pagando por transferencia bancaria</p>
+        <div>
+        <button class="btn btn-primary">Agregar al carrito</button>
+        </div>
+      </div>
     </div>
   </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Previous</span>
-  </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Next</span>
-  </button>
-</div>
-      </div>
   </section>
   <section>
-    <div class="py-5 text-center">
-        <h2>OFERTAS IMPERDIBLES</h2>
-    </div>
-    <div class="container">
-        <div class="row">
-            <div class="col-3 imgProductos">
-            <a href="invierno1.php">
-              <img src="images/invierno.jpg" alt="">
-                <h3 class="text-center descripcionProducto">Abrigo Invierno</h3>
-                
-                <p class="precioProducto text-center">$45.000,00</p>
-                <p class="descripcionAdicional text-center">3 cuotas sin interes $15.000,00</p>
-                </a>
-            </div>
-            <div class="col-3 imgProductos">
-              <img src="images/invierno.jpg" alt="">
-              <h3 class="text-center descripcionProducto">Abrigo Invierno</h3>
-                <p class="precioProducto text-center">$45.000,00</p>
-                <p class="descripcionAdicional text-center">3 cuotas sin interes $15.000,00</p>
-            </div>
-            <div class="col-3 imgProductos">
-              <img src="images/invierno.jpg" alt="">
-              <h3 class="text-center descripcionProducto">Abrigo Invierno</h3>
-                <p class="precioProducto text-center">$45.000,00</p>
-                <p class="descripcionAdicional text-center">3 cuotas sin interes $15.000,00</p>
-            </div>
-            <div class="col-3 imgProductos">
-              <img src="images/invierno.jpg" alt="">
-              <h3 class="text-center descripcionProducto">Abrigo Invierno</h3>
-                <p class="precioProducto text-center">$45.000,00</p>
-                <p class="descripcionAdicional text-center">3 cuotas sin interes $15.000,00</p>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-3 imgProductos">
-              <img src="images/invierno.jpg" alt="">
-                <h3 class="text-center descripcionProducto">Abrigo Invierno</h3>
-                <p class="precioProducto text-center">$45.000,00</p>
-                <p class="descripcionAdicional text-center">3 cuotas sin interes $15.000,00</p>
-            </div>
-            <div class="col-3 imgProductos">
-              <img src="images/invierno.jpg" alt="">
-              <h3 class="text-center descripcionProducto">Abrigo Invierno</h3>
-                <p class="precioProducto text-center">$45.000,00</p>
-                <p class="descripcionAdicional text-center">3 cuotas sin interes $15.000,00</p>
-            </div>
-            <div class="col-3 imgProductos">
-              <img src="images/invierno.jpg" alt="">
-              <h3 class="text-center descripcionProducto">Abrigo Invierno</h3>
-                <p class="precioProducto text-center">$45.000,00</p>
-                <p class="descripcionAdicional text-center">3 cuotas sin interes $15.000,00</p>
-            </div>
-            <div class="col-3 imgProductos">
-              <img src="images/invierno.jpg" alt="">
-              <h3 class="text-center descripcionProducto">Abrigo Invierno</h3>
-                <p class="precioProducto text-center">$45.000,00</p>
-                <p class="descripcionAdicional text-center">3 cuotas sin interes $15.000,00</p>
-            </div>
-        </div>
-    </div>
       <div class="email-barra mt-5 px-0">
         <div class="">
             <div class="col-12 text-center">
@@ -123,8 +44,7 @@
                   <input type="text" placeholder="Tu email">
                   <button class="btn btn-dark">Enviar</button>
                 </label>
-              </form>
-            
+              </form> 
             </div>         
         </div>
         </div>
@@ -151,7 +71,7 @@
               <img src="https://dk0k1i3js6c49.cloudfront.net/iconos-pago/deposito.png" class="footer__top__icon" alt="Medio Pago">
             </div>
           </div>
-          <div class="col-3 mx-5 text-center">
+          <div class="col-3 mx-3 text-center">
             <div class="">
               <h5 class="my-3">Medios de Envio</h5>
               <div class="footer_items">
@@ -172,15 +92,13 @@
             </div>
           </div>
           <div class="col-3 p-0">
-            
+            asds
           </div>
           </div>
         </div>
 
       </div>
     </footer>
-    
-
   </section>
 </body>
 </html>

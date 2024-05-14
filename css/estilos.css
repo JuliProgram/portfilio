@@ -4,7 +4,7 @@ body{
     margin: 0;
 }
 /** MENU ENVIOS-SUPERIOR**/
-#inicio .fondoEnvios{
+#inicio .fondoEnvios ,#invierno1 .fondoEnvios{
     background-color: black;
     margin: 0px;
 }
@@ -35,7 +35,6 @@ div.container-fluid{
 }
 .navbar-collapse{
     margin-right: 40px;
-    
 }
 #secondNav .navbar {
     padding: 20px 0 20px 0px;
@@ -109,17 +108,24 @@ div.container-fluid{
     font-weight: 400;
     justify-content: center;
 }
-#inicio .email-barra{
+#inicio .email-barra ,#invierno1 .email-barra{
     background-color: #333333;
 }
-#inicio h5{
+#inicio h5 ,#invierno1 h5{
     color: white;
     font-size: 16px;
     line-height: 1.4;
     margin: 0;
 }
+/* Productos*/
+.productos {
+    width: 85%;
+    display: block;
+}
+
+
 /*footer*/
-#inicio footer h5{
+#inicio footer h5 ,#invierno1 footer h5{
     color: black;
     font-weight: bold;
     font-size: 16px;
